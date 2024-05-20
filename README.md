@@ -1,4 +1,4 @@
-# HooBank - Business Website Template
+# Fauzan Solutions Website
 
 Modern responsive business website design made with React and Tailwind CSS.
 
